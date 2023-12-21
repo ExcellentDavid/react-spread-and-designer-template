@@ -9,6 +9,7 @@ import '@grapecity/spread-sheets-print'
 import '@grapecity/spread-sheets-pdf'
 import '@grapecity/spread-sheets-barcode'
 import '@grapecity/spread-sheets-pivot-addon'
+import '@grapecity/spread-sheets-reportsheet-addon'
 // 注意：spread-sheets-tablesheet 与 spread-sheets-ganttsheet 的先后顺序
 import '@grapecity/spread-sheets-tablesheet'
 import '@grapecity/spread-sheets-ganttsheet'
